@@ -1,0 +1,7 @@
+# Starter list of Instagram accounts that post hook reels. One handle per line.
+# Edit freely. Pass with: find_hook_reels.py --accounts-file references/accounts.txt
+erika.prompts
+brandinsights.ai
+thepostprotocol
+adam.kelada.media
+creatorhacks

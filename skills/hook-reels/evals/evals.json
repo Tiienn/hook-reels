@@ -1,0 +1,11 @@
+{
+  "skill_name": "hook-reels",
+  "evals": [
+    {"id": 1, "prompt": "whats the hook in this one? https://www.instagram.com/p/DdRbpAFNzPb/",
+     "expected_output": "Fetches and watches the reel; describes the lit-fuse opening clip and the 'Unfinished Countdown Hook'; gives views/likes; marks the 4.7M figure as an on-screen claim."},
+    {"id": 2, "prompt": "find me the most popular hook reels right now from erika.prompts, brandinsights.ai and adam.kelada.media and give me 5 hooks i can use for my coffee shop",
+     "expected_output": "Ranked table with real view counts and stated coverage; top hook reels watched; patterns named; 5 coffee-shop hooks each tied to a source reel."},
+    {"id": 3, "prompt": "https://www.instagram.com/p/DeJ8N6lIaLm/ pull out all the hook templates from this",
+     "expected_output": "Seven templates with examples, transcript errors corrected against on-screen text."}
+  ]
+}
