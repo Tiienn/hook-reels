@@ -11,7 +11,7 @@ Free: no API key, no login. Public reels only.
 ## Install
 
 ```
-npx skills add <owner>/<repo> -a claude-code -g -y
+npx skills add Tiienn/hook-reels -a claude-code -g -y
 ```
 
 Needs Python 3 and `ffmpeg` (`brew install ffmpeg`), plus:
